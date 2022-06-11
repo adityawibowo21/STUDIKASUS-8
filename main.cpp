@@ -31,7 +31,7 @@ void studikasus::input()
     }
     cout<<endl;
   }
-  cout<<endl;
+  cout<<endl; 
 }
 
 void studikasus:: proses(){
